@@ -1,3 +1,3 @@
 # Clock
 ![Clock](desktop-preview.png)</br>
-Live site URL:https://pantelicc.github.io/Clock/
+Live site URL: https://pantelicc.github.io/Clock/
